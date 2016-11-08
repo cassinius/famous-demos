@@ -1,0 +1,14 @@
+html {
+    background-color: #111;
+    color: #ccc;
+}
+
+.double-sided {
+    -webkit-backface-visibility: visible;
+    backface-visibility: visible;
+}
+
+.spinding:hover {
+	box-shadow: 0px 0px 30px red;
+  cursor: pointer;
+}
